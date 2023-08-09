@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#foto{
+    width: 99vw;
+    height: 100vh;
+    background: url(../imagens/pexels-aleiha-m-2913764.jpg) no-repeat right center;
+    background-size: contain;
+}
