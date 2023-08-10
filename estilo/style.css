@@ -19,7 +19,7 @@ html{
 }
 
 main{
-    height: 600px;
+    height: 650px;
     width: 300px;
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.564);
@@ -47,6 +47,6 @@ p{
 
 input{
     margin-bottom: 15px;
-    width: 200px;
-    height: 30px;
+    width: 250px;
+    height: 40px;
 }
