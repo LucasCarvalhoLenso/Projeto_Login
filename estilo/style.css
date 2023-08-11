@@ -40,7 +40,6 @@ main{
 }
 #formulario{
     display: block;
-    text-align: center;
 }
 
 h1, p{
@@ -55,4 +54,13 @@ input{
     margin-bottom: 15px;
     width: 250px;
     height: 40px;
+}
+
+.inputs{
+    margin-right: 28px;
+}
+
+div{
+    background-color: lilas;
+    text-align: center;
 }
