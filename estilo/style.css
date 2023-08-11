@@ -19,7 +19,7 @@ html{
 }
 
 main{
-    height: 85%;
+    height: 75%;
     width: 70%;
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.564);
@@ -35,13 +35,15 @@ main{
 }
 
 #foto{
-    height: 50%;
+    height: 45%;
     background: url(../imagens/pexels-aleiha-m-2913764.jpg) no-repeat top;
     background-size: cover;
+    display: block;
 }
 #formulario{
     display: block;
     text-align: center;
+    display: block;
 }
 
 h1, p{
