@@ -37,12 +37,10 @@ main{
     height: 45%;
     background: url(../imagens/pexels-aleiha-m-2913764.jpg) no-repeat top;
     background-size: cover;
-    display: block;
 }
 #formulario{
     display: block;
     text-align: center;
-    display: block;
 }
 
 h1, p{
