@@ -50,17 +50,51 @@ p{
     margin-bottom: 15px;
 }
 
+div{
+    text-align: center;
+}
+
+.colorido{
+    background-color: var(--lilas);
+    margin: 5px 10px;
+    height: 60px;
+    border-radius: 5px;
+}
+
+i{
+    margin-top: 10px;
+}
+
 input{
     margin-bottom: 15px;
-    width: 250px;
+    width: 68%;
     height: 40px;
+    border-radius: 5px;
+    border: none;
 }
 
-.inputs{
-    margin-right: 28px;
+input[type=password], [type=text]{
+    width: 72%;
+    margin: 10px 28px 0px 0px;
+    border: 1px solid black;
+    text-indent: 3px;
 }
 
-div{
-    background-color: lilas;
-    text-align: center;
+input[type=submit]{
+    background-color: var(--verde);
+    color: white;
+}
+
+input[type=submit]:hover{
+    background-color: #367674;
+    cursor: pointer;
+}
+
+input[type=button]{
+    background-color: #d2d2d2;
+}
+
+input[type=button]:hover{
+    background-color: #b7b7b7;
+    cursor: pointer;
 }
